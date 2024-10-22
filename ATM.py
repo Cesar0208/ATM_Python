@@ -1,6 +1,3 @@
-# Tudo funcionando.
-# Tranformar em app com o flet
-# Criptografar os dados
 from os import system
 from time import sleep
 
